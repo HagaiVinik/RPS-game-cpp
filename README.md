@@ -1,30 +1,23 @@
-# Solution for IMC Trading.
 #### Date: 02/06/2023
 #### Author: *Hagai Vinik*
 
 ---
 
-## Question 1:
-### Description:
+### Overview:
 
-<p> On this task I was required to Implement a rock-paper-scissors game between the computer and a real player.<br>
+Rock Paper Scissors is a fun and interactive command-line game that allows you to challenge your computer to a duel of strategic decision-making. The rules are straightforward: Rock crushes Scissors, Scissors cuts Paper, and Paper covers Rock. With only three possible moves, the game might seem easy at first, but mastering the tactics and psychology behind it will keep you hooked for hours.
+
+
+### Getting Started:
+* Clone the repository to your local machine.
+* Navigate to the project directory compile project (tested on Linux).
+* Run and play :)
 
 
 ### Info:
 * Solution was Developed using C++17.
 * Solution was Developed & tested on Linux (PopOS22) using latest g++.
 * ELF can be found under cmake-build-debug.
-
-<br><br>
-
-## Question 2:
-### Description:
-
-<p> On this task I was required to do code review and find a bug in the provided module.<br>
-
-
-### Info:
-* Module was tested using C++17 on Linux with latest gcc.
 
 <br><br>
 
