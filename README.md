@@ -24,4 +24,4 @@ Rock Paper Scissors is a fun and interactive command-line game that allows you t
 
 
 ---
-*Enjoy reading!*
+*Enjoy playing!*
