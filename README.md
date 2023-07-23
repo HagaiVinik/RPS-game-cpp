@@ -10,6 +10,7 @@ Rock Paper Scissors is a fun and interactive command-line game that allows you t
 
 ### Getting Started:
 * Clone the repository to your local machine.
+* Executable can be found under cmake directory, otherwise -
 * Navigate to the project directory compile project (tested on Linux).
 * Run and play :)
 
